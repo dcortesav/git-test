@@ -1,5 +1,5 @@
 // 1. Declarar una variable con un número
-let miNumero = 18;
+let miNumero = 45;
 
 // 2. Crear una función para verificar si es par o impar
 function verificarParImpar(numero) {
@@ -12,4 +12,4 @@ function verificarParImpar(numero) {
 
 // 3. Ejecutar la función y mostrar el resultado en la consola
 let resultado = verificarParImpar(miNumero);
-console.log(`El número ${miNumero} ${resultado}.`);
+console.log(`El número ${miNumero} ${resultado}. Este resultado fue modificado en una rama alterna`);
